@@ -1,16 +1,8 @@
 <div align="center">
   <h1 align="center">JourneyJolt</h1 >
-  <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank">
+  <a href="https://travelbuddyai.online" target="_blank">
     <img src="https://i.ibb.co/X7N17ps/main.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
   </a>
-
-  <div align="center">
-  <h2 align="center">Stats</h2 >
-  
-  ![GitHub forks](https://img.shields.io/github/forks/satendra03/trip-planner-by-satendra) <br/>
-  ![GitHub Repo stars](https://img.shields.io/github/stars/satendra03/trip-planner-by-satendra) <br/>
-  ![GitHub watchers](https://img.shields.io/github/watchers/satendra03/trip-planner-by-satendra)  
-</div>
 
   <h3>AI-Based Trip Planner</h3>
 
@@ -20,15 +12,10 @@
     <br/>
      <div><a href="https://app.eraser.io/workspace/IT31dyj1DiiagZtyJ47a?origin=share" target="_blank"><img src="https://img.shields.io/badge/Eraser-EC2C40.svg?style=for-the-badge&logo=Eraser&logoColor=white" alt="Documentation and Flow"> </img></a></div>
      <br />
-     <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
+    <br />
+    <a href="https://travelbuddyai.online" target="_blank"><strong>Visit Now</strong></a>
     <br />
     <br />
-    <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
-    <br />
-    <br />
-<!--     <a href="https://i.ibb.co/QkSk539/Whats-App-Image-2024-11-14-at-01-51-59-0db751b0.jpg">Support Me (with Money LOL)</a> -->
-<!--     • -->
-    <a href="https://github.com/satendra03/trip-planner-by-satendra/issues">Report Bug</a>
   </p>
 </div>
 </br>
@@ -49,13 +36,13 @@
 </div>
 </br>
 
-**JourneyJolt** is an AI-based travel planning application designed to make trip planning _easier and more efficient_. This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for destinations, accommodations, and activities.
+**TravelBuddy** is an AI-based travel planning application designed to make trip planning _easier and more efficient_. This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for destinations, accommodations, and activities.
 
 Key features of JourneyJolt include:
 * **Personalized Recommendations**: The AI suggests ideal destinations, hotels, and activities tailored to the traveler’s preferences.
 * **Automated Itinerary Generation**: The app automatically creates a full itinerary that considers factors like travel time and user preferences.
 
-JourneyJolt aims to enhance the travel experience by providing a streamlined, easy-to-use platform for trip planning, designed for both casual travelers and frequent explorers alike.
+TravelBuddy aims to enhance the travel experience by providing a streamlined, easy-to-use platform for trip planning, designed for both casual travelers and frequent explorers alike.
 
 
 
@@ -74,13 +61,11 @@ This project is built with the following major frameworks, libraries, and servic
 * [![React Hot Toast](https://img.shields.io/badge/React%20Hot%20Toast-FF5733?style=for-the-badge&logo=react&logoColor=black)](https://react-hot-toast.com/)
 
 
-
-
 ## Getting Started
 
-Setting up JourneyJolt is simple — just configure your ```.env``` file, and you're ready to go!
+Setting up TravelBuddy is simple — just configure your ```.env``` file, and you're ready to go!
 
-To get started with JourneyJolt, follow these instructions to set up the project locally on your machine for development and testing.
+To get started with TravelBuddy, follow these instructions to set up the project locally on your machine for development and testing.
 
 ### Prerequisites
 
@@ -90,7 +75,7 @@ Before you begin, ensure you have the following installed:
 
 ### Services & API Keys Setup
 
-To fully integrate JourneyJolt with third-party services, you'll need to sign up for the following services, configure the required settings, and obtain API keys. Below are the steps for each service:
+To fully integrate TravelBuddy with third-party services, you'll need to sign up for the following services, configure the required settings, and obtain API keys. Below are the steps for each service:
 
  
 <details>
@@ -185,8 +170,6 @@ To fully integrate JourneyJolt with third-party services, you'll need to sign up
 </details>
 
 
-
-
 </br>
 <div align="center">
 
@@ -201,7 +184,7 @@ The installation process is straightforward. You can either clone the repository
 1. **Clone the repository or download the ZIP file**  
    - To clone the repo, run the following command:
      ```sh
-     https://github.com/satendra03/trip-planner-by-satendra.git
+     https://github.com/AbhishekGupta1119/New_Travel_Buddy_Final.git
      ```
    - Alternatively, you can download the ZIP file from the repository page and extract it.
 
@@ -241,8 +224,6 @@ The installation process is straightforward. You can either clone the repository
 
 #### By following these simple steps, you'll have the project up and running in no time!
 
-
-
 </br>
 <div align="center">
 
@@ -269,8 +250,6 @@ The roadmap represents the challenges and updates that I plan to implement in th
 - [ ] Implement automatic configuration of environment variables from the UI
 
 
-
-
 </br>
 <div align="center">
 
@@ -279,7 +258,6 @@ The roadmap represents the challenges and updates that I plan to implement in th
 </div>
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are <b>greatly appreciated</b>. <br />
 
-<p>Or Maybe you can just  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></p>
 
 If you have an idea or feature that would make this project even better, please feel free to contribute. Whether it's fixing bugs, adding new features, improving documentation, or anything else, your help is welcome!
 
@@ -291,7 +269,7 @@ If you have an idea or feature that would make this project even better, please 
 2. **Clone the repo**  
    Clone your forked version of the repo to your local machine.  
    ```sh
-   git clone https://github.com/satendra03/trip-planner-by-satendra.git
+   git clone https://github.com/AbhishekGupta1119/New_Travel_Buddy_Final.git
    ```
 
 3. **Create your feature branch**  
@@ -318,40 +296,12 @@ If you have an idea or feature that would make this project even better, please 
  
 4. **Open a Pull Request**  
    Go to the original repo and click "New Pull Request". Select your branch and provide a description of what your changes do. Once you're ready, submit the pull request!
-  
-
-## Report Issues and Suggestions
-If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/satendra03/trip-planner-by-satendra/issues) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
-
 
 </br>
 <div align="center">
 
-## License
-
-</div>
-Distributed under the MIT License. See <code>LICENSE.md</code> for more information.
-
-
 </br>
-<div align="center">
 
-## Contact Us
-
-</div>
-We’d love to hear from you! Whether you have a question, suggestion, or issue to report, feel free to get in touch with us.
-
-### Ways to Contact Us:
-
-1. **GitHub Issues**: You can open an issue directly on this repository for bugs, feature requests, or general inquiries.
-   - [Open an Issue](https://github.com/satendra03/trip-planner-by-satendra/issues)
-
-2. **Email**: Reach out to us via email at:
-   - **satendrakumarparteti.work@gmail.com** 
-
-3. **Social Media**:
-   - **Instagram**: [@_satendra_03](https://www.instagram.com/_satendra_03/)
-   - **LinkedIn**: [Satendra Kumar Parteti](https://www.linkedin.com/in/connect-satendra/)
-4. **Buy Me A Coffee**:
-   - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
----
+#   N e w _ T r a v e l _ B u d d y _ F i n a l 
+ 
+ 
