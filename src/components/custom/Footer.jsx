@@ -34,7 +34,7 @@ function Footer({ footerRef }) {
     {
       name: "Twitter",
       icon: <AiFillTwitterCircle />,
-      link: "https://twitter.com/satendra_03",
+      link: "https://twitter.com/__Luffy__19",
     },
   ];
   return (
