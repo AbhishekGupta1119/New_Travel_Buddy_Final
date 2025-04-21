@@ -9,7 +9,7 @@
     Discover personalized itineraries and curated hotel recommendations tailored to your interests. Simplify travel planning with smart suggestions for top destinations and activities, making every trip easy and enjoyable.
     <br />
     <br/>
-     <div><a href="https://app.eraser.io/workspace/IT31dyj1DiiagZtyJ47a?origin=share" target="_blank"><img src="https://img.shields.io/badge/Eraser-EC2C40.svg?style=for-the-badge&logo=Eraser&logoColor=white" alt="Documentation and Flow"> </img></a></div>
+     <div></div>
      <br />
     <br />
     <a href="https://travelbuddyai.online" target="_blank"><strong>Visit Now</strong></a>
@@ -26,12 +26,11 @@
 
 
 <div class="sampleImages" align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <a href="https://ibb.co/gRX4Bcx"><img src="https://i.ibb.co/X7N17ps/main.png" alt="image" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/f1zjdLn"><img src="https://i.ibb.co/TbHgn5W/form.png" alt="image-2" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/yySg2kP"><img src="https://i.ibb.co/QDkGLrS/trip.png" alt="image-1" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/26srCZS"><img src="https://i.ibb.co/bPcmZwX/all.png" alt="image-3" style="border-radius: 10px; height: 170px; border: 0;"></a>
+    
+    <img src="https://i.ibb.co/QDkGLrS/trip.png" alt="image-1" style="border-radius: 10px; height: 170px; border: 0;"></a>
+    <a href="https://ibb.co/26srCZS">
 <!--     <a href="https://ibb.co/jfty8cW"><img src="https://i.ibb.co/Khn25ML/image-5.png" alt="image-5" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
-<!--     <a href="https://ibb.co/r5MtJxg"><img src="https://i.ibb.co/zPb5wX1/image-4.png" alt="image-4" style="border-radius: 10px; height: 170px; border: 0;"></a> -->
+
 </div>
 </br>
 
