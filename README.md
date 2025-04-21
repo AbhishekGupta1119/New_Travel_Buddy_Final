@@ -1,7 +1,6 @@
 <div align="center">
-  <h1 align="center">JourneyJolt</h1 >
+  <h1 align="center">TravelBuddy Ai</h1 >
   <a href="https://travelbuddyai.online" target="_blank">
-    <img src="https://i.ibb.co/X7N17ps/main.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
   </a>
 
   <h3>AI-Based Trip Planner</h3>
