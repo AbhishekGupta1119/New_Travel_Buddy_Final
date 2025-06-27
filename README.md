@@ -38,21 +38,3 @@ Key features of JourneyJolt include:
 * **Automated Itinerary Generation**: The app automatically creates a full itinerary that considers factors like travel time and user preferences.
 
 TravelBuddy aims to enhance the travel experience by providing a streamlined, easy-to-use platform for trip planning, designed for both casual travelers and frequent explorers alike.
-
-
-
-
-## Built With
-
-This project is built with the following major frameworks, libraries, and services:
-
-* [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&background=E4E4E4)](https://reactjs.org/)
-* [![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-* [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-* [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-* [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-FF5F00?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/blog/topics/ai-machine-learning/introducing-gemini-the-new-ai-powered-google-cloud-platform)
-* [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-* [![Auth0](https://img.shields.io/badge/Auth0-000000?style=for-the-badge&logo=auth0&background=E4E4E4)](https://auth0.com/)
-* [![React Hot Toast](https://img.shields.io/badge/React%20Hot%20Toast-FF5733?style=for-the-badge&logo=react&logoColor=black)](https://react-hot-toast.com/)
-
-
